@@ -29,12 +29,6 @@ far too heavy to serve directly, so everything here is a derived copy.
 
 The repo must be public. GitHub Pages on a private repo requires a paid plan.
 
-## Before it goes live
-
-One claim is worth revisiting: the headline says "tens of millions of downloads".
-That is defensible from Solitaire's 10M+ Android installs plus the rest of the
-portfolio. If Kyler pulls a higher verified figure, state it exactly instead.
-
 ## If you buy a domain later
 
 Do not rely on GitHub redirecting `megapowersgames.github.io` to a custom domain —
